@@ -1,0 +1,54 @@
+.billbox {
+  text-transform: uppercase;
+  z-index: 3;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  border: 0.1rem solid #292929;
+  background-color: #fff;
+  padding: 2rem 2rem;
+  border-radius: 1rem;
+  gap: 0.5rem;
+}
+
+.buy-close {
+  width: 100%;
+}
+
+.none {
+  display: none;
+}
+
+.final-buy {
+  margin-top: 1rem;
+}
+
+.det {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0rem 0.5rem;
+}
+
+.bill-details,
+.bill-heading,
+.total-bill {
+  padding-bottom: 0.5rem;
+  border-bottom: 0.1rem solid #292929;
+}
+
+.det span {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.bill-details {
+  gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}

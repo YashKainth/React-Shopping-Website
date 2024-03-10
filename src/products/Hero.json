@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Spotlight Collection",
+    "description": "Discover luxury and sophistication with our handpicked collection, designed to make a statement. Elevate your wardrobe with timeless pieces that embody elegance. Redefine your style with our featured collection",
+    "image": "/Data/Herosection/Spotlight1.jpeg",
+    "button_text": "Explore now",
+    "color": "#b0c9de",
+    "path": "/pages/Women"
+  },
+  {
+    "id": 2,
+    "name": "Women's Ethnics",
+    "description": "Discover elegant ethnic wear for women, including sarees, kurtas, and salwar suits. Explore traditional designs and fine craftsmanship, perfect for any occasion",
+    "image": "/Data/Herosection/Women.jpeg",
+    "button_text": "Shop now",
+    "color": "#6c6b69",
+    "path": "/pages/Women"
+  },
+  {
+    "id": 3,
+    "name": "Men's Fashion",
+    "description": "Discover stylish men's ethnic wear, including kurtas, sherwanis, and Nehru jackets. Perfect for festive occasions and special events",
+    "image": "/Data/Herosection/Men.jpeg",
+    "button_text": "Discover More",
+    "color": "#b09a85",
+    "path": "/pages/Men"
+  }
+]

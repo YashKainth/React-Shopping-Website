@@ -1,0 +1,53 @@
+.errorpage {
+  width: fit-content;
+  background-color: #292929;
+  height: fit-content;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.error {
+  margin-top: -1rem;
+  line-height: 4.5rem;
+  padding: 0rem 1rem;
+  font-size: 4.5rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  border-top: 0.2rem solid #ef8f10;
+  border-bottom: 0.2rem solid #ef8f10;
+  animation: swing 3.5s ease-in-out infinite;
+  transform-origin: 7.5rem -11rem;
+}
+
+.errorimg {
+  transform-origin: 7.5rem 3rem;
+  margin-top: -3.7rem;
+  width: 15rem;
+  animation: swing 3.5s ease-in-out infinite;
+}
+
+.dot {
+  height: 1.5rem;
+  width: 1.5rem;
+  background-color: #ef8f10;
+  border-radius: 10rem;
+}
+
+@keyframes swing {
+  0% {
+    transform: rotate(15deg);
+  }
+  50% {
+    transform: rotate(-15deg);
+  }
+  100% {
+    transform: rotate(15deg);
+  }
+}

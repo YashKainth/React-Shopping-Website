@@ -1,0 +1,58 @@
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+h1 {
+  font-family: "Madimi One", sans-serif;
+  color: #ef8f10;
+  letter-spacing: 0.2rem;
+  font-size: 1.5rem;
+}
+
+.left span {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.15rem;
+}
+
+.center {
+  display: flex;
+  gap: 4rem;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5rem;
+}
+
+.notfilled {
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  cursor: pointer;
+  border: 0rem;
+  background-color: transparent;
+  color: white;
+}
+
+.center button {
+  padding: 0.5rem 1rem;
+  letter-spacing: 0.2rem;
+  text-align: center;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  font-weight: 300;
+}
+
+.center button:hover {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.active {
+  font-weight: 500;
+  font-size: 1.1rem;
+}

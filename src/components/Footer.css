@@ -1,0 +1,32 @@
+.contain,
+.branding {
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.branding h4 {
+  font-size: 3rem;
+  color: #ef8f10;
+  letter-spacing: 0.4rem;
+}
+
+.contain h4 {
+  letter-spacing: 0.3rem;
+  font-size: 1.3rem;
+  color: #ef8f10;
+  border-bottom: 0.1rem solid #ef8f10;
+}
+
+.branding span {
+  color: #fff;
+  letter-spacing: 0.55rem;
+  margin-top: -1rem;
+}
+
+.contain a {
+  font-weight: 300;
+  text-decoration: none;
+  color: #fff;
+}

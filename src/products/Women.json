@@ -1,0 +1,546 @@
+[
+  {
+    "id": "1",
+    "img": "/Data/Women/Suit8.jpeg",
+    "title": "Formal Grey Suit",
+    "price": "799",
+    "category": "Suit",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "2",
+    "img": "/Data/Women/top3.jpeg",
+    "title": "Elegant Black Top",
+    "price": "999",
+    "category": "Top",
+    "size": ["S"]
+  },
+  {
+    "id": "3",
+    "img": "/Data/Women/saree4.jpeg",
+    "title": "Traditional Red Saree",
+    "price": "1299",
+    "category": "Saree",
+    "size": ["M"]
+  },
+  {
+    "id": "4",
+    "img": "/Data/Women/trouser6.jpeg",
+    "title": "Casual Beige Trousers",
+    "price": "899",
+    "category": "Trousers",
+    "size": ["M"]
+  },
+  {
+    "id": "5",
+    "img": "/Data/Women/jacket3.jpeg",
+    "title": "Stylish Denim Jacket",
+    "price": "599",
+    "category": "Jacket",
+    "size": ["S"]
+  },
+  {
+    "id": "6",
+    "img": "/Data/Women/jeans5.jpeg",
+    "title": "Classic Blue Jeans",
+    "price": "699",
+    "category": "Jeans",
+    "size": ["S"]
+  },
+  {
+    "id": "7",
+    "img": "/Data/Women/skirt2.jpeg",
+    "title": "Floral Print Skirt",
+    "price": "499",
+    "category": "Skirt",
+    "size": ["L"]
+  },
+  {
+    "id": "8",
+    "img": "/Data/Women/coat6.jpeg",
+    "title": "Warm Winter Coat",
+    "price": "799",
+    "category": "Coat",
+    "size": ["L"]
+  },
+  {
+    "id": "9",
+    "img": "/Data/Women/Suit10.jpeg",
+    "title": "Casual Black Suit",
+    "price": "699",
+    "category": "Suit",
+    "size": ["S", "L"]
+  },
+  {
+    "id": "10",
+    "img": "/Data/Women/top11.jpeg",
+    "title": "Simple White Top",
+    "price": "499",
+    "category": "Top",
+    "size": ["M"]
+  },
+  {
+    "id": "11",
+    "img": "/Data/Women/saree2.jpeg",
+    "title": "Embroidered Pink Saree",
+    "price": "999",
+    "category": "Saree",
+    "size": ["M"]
+  },
+  {
+    "id": "12",
+    "img": "/Data/Women/trouser4.jpeg",
+    "title": "Formal Grey Trousers",
+    "price": "799",
+    "category": "Trousers",
+    "size": ["S"]
+  },
+  {
+    "id": "13",
+    "img": "/Data/Women/jacket1.jpeg",
+    "title": "Stylish Black Jacket",
+    "price": "799",
+    "category": "Jacket",
+    "size": ["M"]
+  },
+  {
+    "id": "14",
+    "img": "/Data/Women/jeans8.jpeg",
+    "title": "Ripped Blue Jeans",
+    "price": "699",
+    "category": "Jeans",
+    "size": ["S"]
+  },
+  {
+    "id": "15",
+    "img": "/Data/Women/skirt5.jpeg",
+    "title": "Patterned Skirt",
+    "price": "599",
+    "category": "Skirt",
+    "size": ["L"]
+  },
+  {
+    "id": "16",
+    "img": "/Data/Women/coat3.jpeg",
+    "title": "Brown Winter Coat",
+    "price": "899",
+    "category": "Coat",
+    "size": ["S"]
+  },
+  {
+    "id": "17",
+    "img": "/Data/Women/Suit14.jpeg",
+    "title": "Formal Blue Suit",
+    "price": "799",
+    "category": "Suit",
+    "size": ["M"]
+  },
+  {
+    "id": "18",
+    "img": "/Data/Women/top9.jpeg",
+    "title": "Casual Green Top",
+    "price": "699",
+    "category": "Top",
+    "size": ["S"]
+  },
+  {
+    "id": "19",
+    "img": "/Data/Women/saree1.jpeg",
+    "title": "Traditional Yellow Saree",
+    "price": "1299",
+    "category": "Saree",
+    "size": ["L"]
+  },
+  {
+    "id": "20",
+    "img": "/Data/Women/trouser2.jpeg",
+    "title": "Comfortable Black Trousers",
+    "price": "499",
+    "category": "Trousers",
+    "size": ["M"]
+  },
+  {
+    "id": "21",
+    "img": "/Data/Women/jacket5.jpeg",
+    "title": "Stylish Red Jacket",
+    "price": "899",
+    "category": "Jacket",
+    "size": ["L"]
+  },
+  {
+    "id": "22",
+    "img": "/Data/Women/jeans7.jpeg",
+    "title": "Skinny Fit Jeans",
+    "price": "699",
+    "category": "Jeans",
+    "size": ["M"]
+  },
+  {
+    "id": "23",
+    "img": "/Data/Women/skirt3.jpeg",
+    "title": "Denim Skirt",
+    "price": "799",
+    "category": "Skirt",
+    "size": ["S"]
+  },
+  {
+    "id": "24",
+    "img": "/Data/Women/jeans3.jpeg",
+    "title": "Casual Grey Jeans",
+    "price": "599",
+    "category": "Jeans",
+    "size": ["M"]
+  },
+  {
+    "id": "25",
+    "img": "/Data/Women/Suit11.jpeg",
+    "title": "Formal Blue Suit",
+    "price": "999",
+    "category": "Suit",
+    "size": ["L"]
+  },
+  {
+    "id": "26",
+    "img": "/Data/Women/top6.jpeg",
+    "title": "Casual Grey Top",
+    "price": "699",
+    "category": "Top",
+    "size": ["S"]
+  },
+  {
+    "id": "27",
+    "img": "/Data/Women/saree6.jpeg",
+    "title": "Printed Blue Saree",
+    "price": "499",
+    "category": "Saree",
+    "size": ["S"]
+  },
+  {
+    "id": "28",
+    "img": "/Data/Women/trouser5.jpeg",
+    "title": "Formal Black Trousers",
+    "price": "899",
+    "category": "Trousers",
+    "size": ["M"]
+  },
+  {
+    "id": "29",
+    "img": "/Data/Women/jacket6.jpeg",
+    "title": "Stylish Leather Jacket",
+    "price": "599",
+    "category": "Jacket",
+    "size": ["L"]
+  },
+  {
+    "id": "30",
+    "img": "/Data/Women/jeans9.jpeg",
+    "title": "Casual Black Jeans",
+    "price": "699",
+    "category": "Jeans",
+    "size": ["S"]
+  },
+  {
+    "id": "31",
+    "img": "/Data/Women/skirt1.jpeg",
+    "title": "Denim Mini Skirt",
+    "price": "799",
+    "category": "Skirt",
+    "size": ["M"]
+  },
+  {
+    "id": "32",
+    "img": "/Data/Women/coat2.jpeg",
+    "title": "Classic Black Coat",
+    "price": "899",
+    "category": "Coat",
+    "size": ["S"]
+  },
+  {
+    "id": "33",
+    "img": "/Data/Women/top12.jpeg",
+    "title": "Striped White Top",
+    "price": "699",
+    "category": "Top",
+    "size": ["L"]
+  },
+  {
+    "id": "34",
+    "img": "/Data/Women/top8.jpeg",
+    "title": "Formal Blue Top",
+    "price": "799",
+    "category": "Top",
+    "size": ["S"]
+  },
+  {
+    "id": "35",
+    "img": "/Data/Women/saree3.jpeg",
+    "title": "Traditional Green Saree",
+    "price": "999",
+    "category": "Saree",
+    "size": ["M"]
+  },
+  {
+    "id": "36",
+    "img": "/Data/Women/trouser3.jpeg",
+    "title": "Comfortable Grey Trousers",
+    "price": "499",
+    "category": "Trousers",
+    "size": ["L"]
+  },
+  {
+    "id": "37",
+    "img": "/Data/Women/jacket2.jpeg",
+    "title": "Casual Brown Jacket",
+    "price": "899",
+    "category": "Jacket",
+    "size": ["S"]
+  },
+  {
+    "id": "38",
+    "img": "/Data/Women/jeans6.jpeg",
+    "title": "Dark Blue Jeans",
+    "price": "699",
+    "category": "Jeans",
+    "size": ["L"]
+  },
+  {
+    "id": "39",
+    "img": "/Data/Women/skirt4.jpeg",
+    "title": "Floral Skirt",
+    "price": "599",
+    "category": "Skirt",
+    "size": ["S"]
+  },
+  {
+    "id": "40",
+    "img": "/Data/Women/coat1.jpeg",
+    "title": "Brown Fur Coat",
+    "price": "799",
+    "category": "Coat",
+    "size": ["M"]
+  },
+  {
+    "id": "41",
+    "img": "/Data/Women/Suit13.jpeg",
+    "title": "Elegant White Suit",
+    "price": "699",
+    "category": "Suit",
+    "size": ["S"]
+  },
+  {
+    "id": "42",
+    "img": "/Data/Women/top7.jpeg",
+    "title": "Casual Pink Top",
+    "price": "499",
+    "category": "Top",
+    "size": ["M"]
+  },
+  {
+    "id": "43",
+    "img": "/Data/Women/saree5.jpeg",
+    "title": "Embroidered Green Saree",
+    "price": "799",
+    "category": "Saree",
+    "size": ["L"]
+  },
+  {
+    "id": "44",
+    "img": "/Data/Women/trouser1.jpeg",
+    "title": "Stylish Beige Trousers",
+    "price": "899",
+    "category": "Trousers",
+    "size": ["S"]
+  },
+  {
+    "id": "45",
+    "img": "/Data/Women/jacket4.jpeg",
+    "title": "Casual Grey Jacket",
+    "price": "699",
+    "category": "Jacket",
+    "size": ["M"]
+  },
+  {
+    "id": "46",
+    "img": "/Data/Women/jeans1.jpeg",
+    "title": "Classic Black Jeans",
+    "price": "999",
+    "category": "Jeans",
+    "size": ["L"]
+  },
+  {
+    "id": "47",
+    "img": "/Data/Women/skirt6.jpeg",
+    "title": "Summer Floral Skirt",
+    "price": "799",
+    "category": "Skirt",
+    "size": ["S"]
+  },
+  {
+    "id": "48",
+    "img": "/Data/Women/coat5.jpeg",
+    "title": "Grey Winter Coat",
+    "price": "599",
+    "category": "Coat",
+    "size": ["M"]
+  },
+  {
+    "id": "49",
+    "img": "/Data/Women/Suit9.jpeg",
+    "title": "Formal Brown Suit",
+    "price": "799",
+    "category": "Suit",
+    "size": ["L"]
+  },
+  {
+    "id": "50",
+    "img": "/Data/Women/top2.jpeg",
+    "title": "Casual Blue Top",
+    "price": "599",
+    "category": "Top",
+    "size": ["S"]
+  },
+  {
+    "id": "51",
+    "img": "/Data/Women/top1.jpeg",
+    "title": "Elegant White Top",
+    "price": "1299",
+    "category": "Top",
+    "size": ["M"]
+  },
+  {
+    "id": "52",
+    "img": "/Data/Women/top10.jpeg",
+    "title": "Stylish Black Top",
+    "price": "899",
+    "category": "Top",
+    "size": ["L"]
+  },
+  {
+    "id": "53",
+    "img": "/Data/Women/coat4.jpeg",
+    "title": "Winter Red Coat",
+    "price": "699",
+    "category": "Coat",
+    "size": ["S"]
+  },
+  {
+    "id": "54",
+    "img": "/Data/Women/jacket1.jpeg",
+    "title": "Classic Brown Jacket",
+    "price": "999",
+    "category": "Jacket",
+    "size": ["M"]
+  },
+  {
+    "id": "55",
+    "img": "/Data/Women/jeans2.jpeg",
+    "title": "Black Ripped Jeans",
+    "price": "899",
+    "category": "Jeans",
+    "size": ["L"]
+  },
+  {
+    "id": "56",
+    "img": "/Data/Women/saree3.jpeg",
+    "title": "Casual Blue Saree",
+    "price": "599",
+    "category": "Saree",
+    "size": ["S"]
+  },
+  {
+    "id": "57",
+    "img": "/Data/Women/skirt1.jpeg",
+    "title": "Striped Midi Skirt",
+    "price": "799",
+    "category": "Skirt",
+    "size": ["M"]
+  },
+  {
+    "id": "58",
+    "img": "/Data/Women/Suit12.jpeg",
+    "title": "Formal Grey Suit",
+    "price": "499",
+    "category": "Suit",
+    "size": ["L"]
+  },
+  {
+    "id": "59",
+    "img": "/Data/Women/top4.jpeg",
+    "title": "Casual Red Top",
+    "price": "699",
+    "category": "Top",
+    "size": ["S"]
+  },
+  {
+    "id": "60",
+    "img": "/Data/Women/trouser7.jpeg",
+    "title": "Formal Blue Trousers",
+    "price": "799",
+    "category": "Trousers",
+    "size": ["M"]
+  },
+  {
+    "id": "61",
+    "img": "/Data/Women/coat7.jpeg",
+    "title": "Stylish Long Coat",
+    "price": "1299",
+    "category": "Coat",
+    "size": ["L"]
+  },
+  {
+    "id": "62",
+    "img": "/Data/Women/jacket3.jpeg",
+    "title": "Casual Grey Jacket",
+    "price": "499",
+    "category": "Jacket",
+    "size": ["S"]
+  },
+  {
+    "id": "63",
+    "img": "/Data/Women/jeans4.jpeg",
+    "title": "Comfortable Blue Jeans",
+    "price": "799",
+    "category": "Jeans",
+    "size": ["M"]
+  },
+  {
+    "id": "64",
+    "img": "/Data/Women/saree2.jpeg",
+    "title": "Traditional Red Saree",
+    "price": "599",
+    "category": "Saree",
+    "size": ["L"]
+  },
+  {
+    "id": "65",
+    "img": "/Data/Women/skirt5.jpeg",
+    "title": "Floral Maxi Skirt",
+    "price": "699",
+    "category": "Skirt",
+    "size": ["S"]
+  },
+  {
+    "id": "66",
+    "img": "/Data/Women/Suit11.jpeg",
+    "title": "Elegant Black Suit",
+    "price": "799",
+    "category": "Suit",
+    "size": ["M"]
+  },
+  {
+    "id": "67",
+    "img": "/Data/Women/top6.jpeg",
+    "title": "Casual Grey Top",
+    "price": "999",
+    "category": "Top",
+    "size": ["L"]
+  },
+  {
+    "id": "68",
+    "img": "/Data/Women/trouser4.jpeg",
+    "title": "Stylish Black Trousers",
+    "price": "1299",
+    "category": "Trousers",
+    "size": ["S"]
+  }
+]

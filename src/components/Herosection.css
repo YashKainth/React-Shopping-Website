@@ -1,0 +1,79 @@
+.slider-container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  overflow-x: scroll;
+  scrollbar-arrow-color: none;
+  scroll-snap-type: x mandatory;
+}
+
+.slider-container::-webkit-scrollbar {
+  background-color: #ef8f1050;
+  height: 0.15rem;
+}
+.slider-container::-webkit-scrollbar-thumb {
+  background-color: #ef8f10;
+  border-radius: 1rem;
+}
+.slider-container::-webkit-scrollbar-button {
+  display: none;
+}
+
+.slidercard {
+  gap: 2rem;
+  flex: 0 0 auto;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 0rem 8rem;
+  flex-direction: row;
+  width: 100%;
+  scroll-snap-align: start;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+
+.slidercard img {
+  height: 90%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  max-width: 33rem;
+  gap: 1rem;
+}
+
+.info h2 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  letter-spacing: 0.1rem;
+  color: #fff;
+}
+
+.info p {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #fff;
+}
+
+.filled {
+  cursor: pointer;
+  background-color: hsl(34, 87%, 90%);
+  font-weight: 700;
+  letter-spacing: 0.15rem;
+  border: 0;
+  color: #ef8f10;
+  padding: 1rem 1.5rem;
+  border-radius: 2rem;
+}
+
+.info button {
+  width: fit-content;
+  text-align: left;
+  margin-top: 2rem;
+}

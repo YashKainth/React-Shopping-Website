@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Madimi+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.Navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #292929;
+  color: white;
+  padding: 1.5rem 3rem;
+}
+
+.Herosection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 80vh;
+  gap: 0.5rem;
+}
+
+.Newarrival {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 1rem;
+  gap: 3rem;
+}
+
+.Footer {
+  padding: 3rem 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  background-color: #292929;
+  justify-content: space-around;
+}

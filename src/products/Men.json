@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1",
+    "img": "/Data/Men/coat1.jpeg",
+    "title": "Brown Overcoat",
+    "price": "699",
+    "category": "Coat",
+    "size": ["M", "L"]
+  },
+  {
+    "id": "2",
+    "img": "/Data/Men/tshirt1.jpeg",
+    "title": "Mustard Tee",
+    "price": "499",
+    "category": "Tee",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "3",
+    "img": "/Data/Men/jeans1.jpeg",
+    "title": "Dark blue jeans",
+    "price": "399",
+    "category": "Jeans",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "4",
+    "img": "/Data/Men/shirt1.jpeg",
+    "title": "Stripped Shirt",
+    "price": "599",
+    "category": "Shirt",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "5",
+    "img": "/Data/Men/jacket1.jpeg",
+    "title": "Beige Jacket",
+    "price": "899",
+    "category": "Jacket",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "6",
+    "img": "/Data/Men/kurta1.jpeg",
+    "title": "Royal Kurta Set",
+    "price": "799",
+    "category": "Kurta",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "7",
+    "img": "/Data/Men/pant1.jpeg",
+    "title": "Navy blue pants",
+    "price": "699",
+    "category": "Pant",
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "8",
+    "img": "/Data/Men/tshirt2.jpeg",
+    "title": "blue sweater",
+    "price": "499",
+    "category": "Tee",
+    "size": ["M", "L"]
+  },
+  {
+    "id": "9",
+    "img": "/Data/Men/jeans2.jpeg",
+    "title": "Light Blue Jeans",
+    "price": "399",
+    "category": "Jeans",
+    "size": ["S", "L"]
+  },
+  {
+    "id": "10",
+    "img": "/Data/Men/shirt2.jpeg",
+    "title": "Pattern shirt",
+    "price": "599",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "11",
+    "img": "/Data/Men/coat2.jpeg",
+    "title": "Wooody Coat",
+    "price": "899",
+    "category": "Coat",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "12",
+    "img": "/Data/Men/jeans3.jpeg",
+    "title": "Sky Jeans",
+    "price": "799",
+    "category": "Jeans",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "13",
+    "img": "/Data/Men/jacket2.jpeg",
+    "title": "Brown Jacket",
+    "price": "699",
+    "category": "Jacket",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "14",
+    "img": "/Data/Men/pant2.jpeg",
+    "title": "White chinos",
+    "price": "499",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "15",
+    "img": "/Data/Men/tshirt3.jpeg",
+    "title": "Beige Tee",
+    "price": "599",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "16",
+    "img": "/Data/Men/shirt3.jpeg",
+    "title": "Dark Stripped ",
+    "price": "899",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "17",
+    "img": "/Data/Men/jeans4.jpeg",
+    "title": "Blue Jeans",
+    "price": "799",
+    "category": "Jeans",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "18",
+    "img": "/Data/Men/kurta2.jpeg",
+    "title": "Mahroon Kurta",
+    "price": "699",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "19",
+    "img": "/Data/Men/pant3.jpeg",
+    "title": "beige chinos",
+    "price": "499",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "20",
+    "img": "/Data/Men/tshirt4.jpeg",
+    "title": "Orange Tee",
+    "price": "699",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "21",
+    "img": "/Data/Men/coat3.jpeg",
+    "title": "Brown Overcoat",
+    "price": "499",
+    "category": "Coat",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "22",
+    "img": "/Data/Men/jacket3.jpeg",
+    "title": "Varsity Jacekt",
+    "price": "799",
+    "category": "Jacket",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "23",
+    "img": "/Data/Men/jeans5.jpeg",
+    "title": "Blue Jeans",
+    "price": "459",
+    "category": "Jeans",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "24",
+    "img": "/Data/Men/shirt4.jpeg",
+    "title": "Yellow Shirt",
+    "price": "599",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "25",
+    "img": "/Data/Men/tshirt5.jpeg",
+    "title": "Linen Shirt",
+    "price": "899",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "26",
+    "img": "/Data/Men/kurta3.jpeg",
+    "title": "Rose Pink Kurta",
+    "price": "799",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "27",
+    "img": "/Data/Men/pant4.jpeg",
+    "title": "Olive Cargo",
+    "price": "699",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "28",
+    "img": "/Data/Men/jeans6.jpeg",
+    "title": "Rusty Jeans",
+    "price": "499",
+    "category": "Jeans",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "29",
+    "img": "/Data/Men/shirt5.jpeg",
+    "title": "Blue Tee",
+    "price": "699",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "30",
+    "img": "/Data/Men/tshirt6.jpeg",
+    "title": "White strip Tee",
+    "price": "899",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "31",
+    "img": "/Data/Men/coat4.jpeg",
+    "title": "Brown Coat",
+    "price": "799",
+    "category": "Coat",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "32",
+    "img": "/Data/Men/jacket4.jpeg",
+    "title": "Woody coat",
+    "price": "599",
+    "category": "Jacket",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "33",
+    "img": "/Data/Men/pant5.jpeg",
+    "title": "Blue Cargo",
+    "price": "399",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "34",
+    "img": "/Data/Men/jeans7.jpeg",
+    "title": "Light blue jeans",
+    "price": "599",
+    "category": "Jeans",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "35",
+    "img": "/Data/Men/tshirt7.jpeg",
+    "title": "White Tee",
+    "price": "799",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "36",
+    "img": "/Data/Men/shirt6.jpeg",
+    "title": "Stripped Shirt",
+    "price": "699",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "37",
+    "img": "/Data/Men/kurta4.jpeg",
+    "title": "Pink kurta",
+    "price": "499",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "38",
+    "img": "/Data/Men/pant6.jpeg",
+    "title": "Beige Pants",
+    "price": "699",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "39",
+    "img": "/Data/Men/jeans8.jpeg",
+    "title": "Blue jeans",
+    "price": "799",
+    "category": "Jeans",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "40",
+    "img": "/Data/Men/jacket5.jpeg",
+    "title": "Brown varsity",
+    "price": "499",
+    "category": "Jacket",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "41",
+    "img": "/Data/Men/tshirt8.jpeg",
+    "title": "grey Tee",
+    "price": "699",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "42",
+    "img": "/Data/Men/shirt7.jpeg",
+    "title": "brown Tee",
+    "price": "799",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "43",
+    "img": "/Data/Men/jeans9.jpeg",
+    "title": "Blue Jeans",
+    "price": "599",
+    "category": "Jeans",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "44",
+    "img": "/Data/Men/kurta5.jpeg",
+    "title": "mustard kurta",
+    "price": "499",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "45",
+    "img": "/Data/Men/pant7.jpeg",
+    "title": "Black cargo",
+    "price": "699",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "46",
+    "img": "/Data/Men/tshirt9.jpeg",
+    "title": "black Tee",
+    "price": "899",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "47",
+    "img": "/Data/Men/coat5.jpeg",
+    "title": "beige coat",
+    "price": "699",
+    "category": "Coat",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "48",
+    "img": "/Data/Men/jacket6.jpeg",
+    "title": "Casual Brown Jacket",
+    "price": "499",
+    "category": "Jacket",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "49",
+    "img": "/Data/Men/pant8.jpeg",
+    "title": "Classic Navy Blue Pants",
+    "price": "799",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "50",
+    "img": "/Data/Men/shirt11.jpeg",
+    "title": "Striped Casual Shirt",
+    "price": "459",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "51",
+    "img": "/Data/Men/shirt8.jpeg",
+    "title": "Stylish Blue Shirt",
+    "price": "599",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "52",
+    "img": "/Data/Men/tshirt10.jpeg",
+    "title": "Comfortable Grey Tee",
+    "price": "899",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "53",
+    "img": "/Data/Men/coat6.jpeg",
+    "title": "Warm Winter Coat",
+    "price": "799",
+    "category": "Coat",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "54",
+    "img": "/Data/Men/shirt12.jpeg",
+    "title": "Formal Striped Shirt",
+    "price": "699",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "55",
+    "img": "/Data/Men/kurta6.jpeg",
+    "title": "Elegant Mahroon Kurta",
+    "price": "499",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "56",
+    "img": "/Data/Men/pant9.jpeg",
+    "title": "Stylish Black Cargo Pants",
+    "price": "699",
+    "category": "Pant",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "57",
+    "img": "/Data/Men/kurta7.jpeg",
+    "title": "Simple Kurta",
+    "price": "799",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "58",
+    "img": "/Data/Men/shirt9.jpeg",
+    "title": "Formal Blue Shirt",
+    "price": "699",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "59",
+    "img": "/Data/Men/tshirt11.jpeg",
+    "title": "Casual White Tee",
+    "price": "599",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "60",
+    "img": "/Data/Men/kurta8.jpeg",
+    "title": "Stylish Pink Kurta",
+    "price": "899",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "61",
+    "img": "/Data/Men/kurta9.jpeg",
+    "title": "Formal Mustard Kurta",
+    "price": "699",
+    "category": "Kurta",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "62",
+    "img": "/Data/Men/tshirt12.jpeg",
+    "title": "Classic Black Tee",
+    "price": "499",
+    "category": "Tee",
+    "size": ["S", "M"]
+  },
+  {
+    "id": "63",
+    "img": "/Data/Men/shirt10.jpeg",
+    "title": "Plain White Shirt",
+    "price": "599",
+    "category": "Shirt",
+    "size": ["S", "M"]
+  }
+]
